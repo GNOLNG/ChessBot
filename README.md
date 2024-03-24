@@ -8,7 +8,8 @@ This project addresses the lack of support for visually impaired users on chess.
 
 **Mac:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v1/mac_ChessBot.zip
 
-<img width="658" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/0b1472ee-d3ca-4220-a9dc-2a3a44b1e2fe">
+<img width="649" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/38b80310-dc7d-423b-9cf6-fb9a3d8136dc">
+
 
 
 ## Source Code
