@@ -21,17 +21,17 @@ This project addresses the lack of support for visually impaired users on chess.
 
 
 ## How to use
-**Only two key to remember**
+***Only two key to remember***
   - **1. Press Control + O, and the bot will tell options that you can make on that state. So, press Control + O when you get lost.**
   - **2. Press Control + R to repeat the last sentence.**
 
-**Start a chess game**
+***Start a chess game***
   - **1. Control + 1 OR type the word 'computer' to start a "vs computer" game**  
   - **2. Control + 2 OR type the word 'online' to start a "vs online players" game**
   - **3. Once the game is ready, the bot will tell the color you are playing**  
 <img width="389" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/acd76669-f48f-4fe3-a820-00cd84212baf">
 
-**Make a move**
+***Make a move***
 
   There are two modes supported to make a move: command mode and arrow mode
 
@@ -61,17 +61,17 @@ This project addresses the lack of support for visually impaired users on chess.
   - **Press space bar to select the target piece, travel to the square you wanted to place, and press the space bar again**
 
 
-**Opponent Move**
+***Opponent Move***
   - **1. after your opponent makes their move, the bot will speak out their move**
   - For example, white pawn move to h8 and promote to queen and check
 
-**Query information**
+***Query information***
   - **1. Type the word "time" to check the remaining time of the current game**
   - **2. Type the word "where" followed by piece type to check the location of that piece, e.g. where knight / where k**
   - **3. Type the word "what" followed by the square name to check the piece type on that square, e.g. what a2**
 
 
-**Game end**
+***Game end***
   - **The game will end once either side wins or resigns from the chess game. The bot will tell you who wins and the reason, e.g. black wins by cheakmate**
   - **You must resign from the current game before starting another game**
   - **To resign, type the word "resign" and confirm it.**
