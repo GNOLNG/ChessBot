@@ -37,6 +37,7 @@ This project addresses the lack of support for visually impaired users on chess.
 
   - **For command mode: Control + F to focus on command panel.  Coordinate-based (UCI) style and Standard algebraic notation (SAN) style**  
     - **1. For SAN style:**
+
 | SAN text            | Example meaning |
 | ----------------- | ----------- |
 | Nxe4 | knight capture on e4 |
