@@ -36,7 +36,8 @@ This project addresses the lack of support for visually impaired users on chess.
   There are two modes supported to make a move: command mode and arrow mode
 
   - **For command mode: Control + F to focus on command panel.  Coordinate-based (UCI) style and Standard algebraic notation (SAN) style**  
-    - **1. For SAN style:** | SAN text            | Example meaning |
+    - **1. For SAN style:**
+| SAN text            | Example meaning |
 | ----------------- | ----------- |
 | Nxe4 | knight capture on e4 |
 | Rd1+ | rook move to d1 and check |
