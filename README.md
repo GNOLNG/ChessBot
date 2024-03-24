@@ -46,6 +46,7 @@ This project addresses the lack of support for visually impaired users on chess.
 | o-o /0-0 | kingside castling (short castling) |
 | o-o-o/ 0-0-0 | queenside castling (long castling) |
 | e8=q | pawn move to e8 and promote to queen |
+
   - **2. For UCI style:** 
 | UCI text            | Example meaning |
 | ----------------- | ----------- |
