@@ -29,14 +29,14 @@ This project addresses the lack of support for visually impaired users on chess.
   - **1. Control + 1 OR type the word 'computer' to start a "vs computer" game**  
   - **2. Control + 2 OR type the word 'online' to start a "vs online players" game**
   - **3. Once the game is ready, the bot will tell the color you are playing**  
+<img width="389" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/acd76669-f48f-4fe3-a820-00cd84212baf">
 
 **Make a move**
 
   There are two modes supported to make a move: command mode and arrow mode
 
   - **For command mode: Control + F to focus on command panel.  Coordinate-based (UCI) style and Standard algebraic notation (SAN) style**  
-    - **1. For SAN style:** 
-| SAN text            | Example meaning |
+    - **1. For SAN style:** | SAN text            | Example meaning |
 | ----------------- | ----------- |
 | Nxe4 | knight capture on e4 |
 | Rd1+ | rook move to d1 and check |
@@ -44,7 +44,6 @@ This project addresses the lack of support for visually impaired users on chess.
 | o-o /0-0 | kingside castling (short castling) |
 | o-o-o/ 0-0-0 | queenside castling (long castling) |
 | e8=q | pawn move to e8 and promote to queen |
-<img width="389" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/acd76669-f48f-4fe3-a820-00cd84212baf">
   - **2. For UCI style:** 
 | UCI text            | Example meaning |
 | ----------------- | ----------- |
