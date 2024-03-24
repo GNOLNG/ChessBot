@@ -3,7 +3,7 @@ This project addresses the lack of support for visually impaired users on chess.
 
 
 ## Downlaod
-
+1. download zip file
 **Windows:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v1/windows_ChessBot.zip
 
 **Mac:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v1/mac_ChessBot.zip
