@@ -30,6 +30,7 @@ This project addresses the lack of support for visually impaired users on chess.
   - **2. Control + 2 OR type the word 'online' to start a "vs online players" game**
   - **3. Once the game is ready, the bot will tell the color you are playing**  
 <img width="389" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/acd76669-f48f-4fe3-a820-00cd84212baf">
+
 ---
 
 ***Make a move***
