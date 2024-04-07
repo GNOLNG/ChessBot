@@ -51,7 +51,7 @@ This project addresses the lack of support for visually impaired users on chess.
 
   - **2. For UCI style:**
 
-| UCI text            | Example meaning |
+| coordinate notation text            | Example meaning |
 | ----------------- | ----------- |
 | e2e4 | move piece on e2 to e4 |
 | e7e8q | move piece on e7 (pawn) to e8 and promote to queen |
