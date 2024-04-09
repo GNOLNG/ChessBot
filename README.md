@@ -1,5 +1,5 @@
 # chess.com-bot-for-visually-impaired
-This project addresses the lack of support for visually impaired users on chess.com by introducing a keyboard-operated bot. The bot enables players to navigate the board and make moves using arrow keys and keyboard input, while also announcing the opponent's moves audibly.
+ChessBot addresses the lack of support for visually impaired users on chess.com by introducing a keyboard-operated bot. The bot enables players to navigate the board and make moves using arrow keys and keyboard input, while also announcing the opponent's moves audibly.
 
 
 ## Downlaod
@@ -17,7 +17,8 @@ This project addresses the lack of support for visually impaired users on chess.
 
 **5.Login chess.com account if you want to earn score from chess.com rating system**
 - With the assistance of a trusted friend: open the "ChessBot" > locate and click the login button on left bottom of the front page > login your chess.com account
-<img width="649" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/38b80310-dc7d-423b-9cf6-fb9a3d8136dc">
+![JPEG影像-4944-9069-35-0](https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/fb8057b3-12aa-469d-ad23-974c60520470)
+
 
 
 ## How to use
