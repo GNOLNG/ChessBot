@@ -23,14 +23,13 @@ ChessBot addresses the lack of support for visually impaired users on chess.com 
 
 ## How to use
 ***Only two key to remember***
-  - **1. Press Control + O, and the bot will tell options that you can make on that state. So, press Control + O when you get lost.**
+  - **1. Press Control + O, and the bot will tell options that you can make on that state.**
   - **2. Press Control + R to repeat the last sentence.**
 ---
 ***Start a chess game***
-  - **1. Control + 1 OR type the word 'computer' to start a "vs computer" game**  
-  - **2. Control + 2 OR type the word 'online' to start a "vs online players" game**
+  - **1. press the "play with computer" button OR control + 1 to start a "vs computer" game**  
+  - **2. press the "play with other online player" button OR control + 2 to start a "vs online players" game**
   - **3. Once the game is ready, the bot will tell the color you are playing**  
-<img width="389" alt="image" src="https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/assets/92449126/acd76669-f48f-4fe3-a820-00cd84212baf">
 
 ---
 
@@ -70,9 +69,9 @@ ChessBot addresses the lack of support for visually impaired users on chess.com 
   - For example, white pawn move to h8 and promote to queen and check
 ---
 ***Query information***
-  - **1. Type the word "time" to check the remaining time of the current game**
-  - **2. Type the word "where" followed by piece type to check the location of that piece, e.g. where knight / where k**
-  - **3. Type the word "what" followed by the square name to check the piece type on that square, e.g. what a2**
+  - **1. Press "check remaining time" button to check the remaining time of the current game**
+  - **2. Type piece name on "check position" input field to check the locations of that piece, e.g. knight / N**
+  - **3. Type square name on "check position" input field to check the piece type on that square, e.g. a2**
 
 ---
 ***Game end***
