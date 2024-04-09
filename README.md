@@ -4,9 +4,8 @@ ChessBot addresses the lack of support for visually impaired users on chess.com 
 
 ## Downlaod
 **1. Download zip file**
-- **Windows:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v1/windows_ChessBot.zip
-
-- **Mac:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v1/mac_ChessBot.zip
+- **Windows:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v2/ChessBot_window.zip
+- **Mac:** https://github.com/GNOLNG/chess.com-bot-for-visually-impaired/releases/download/v2/ChessBot_Mac.zip
 
 **2. Unzip**
 **3. Grant permission to the app**
