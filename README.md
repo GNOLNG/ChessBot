@@ -92,6 +92,9 @@ Answer: No, the current version of the application does not support pre-moves. Y
 
 Answer: No, you don't need to log in to your account again each time you open the application. Your account information will persist, and you will be automatically logged in when you open the application.
 
+#### Question: How can I remove this software
+
+Answer: To remove this software, simply locate the downloaded application and delete the entire folder. 
 ## Source Code
 
 **Coming Soon**
