@@ -94,7 +94,7 @@ Answer: No, you don't need to log in to your account again each time you open th
 
 #### Question: How can I remove this software
 
-Answer: To remove this software, simply locate the downloaded application and delete the entire folder. 
+Answer: The application is called ChessBot. You can delete the downloaded folder to remove the application completely.
 ## Source Code
 
 
