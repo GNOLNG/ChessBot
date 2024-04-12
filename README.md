@@ -97,6 +97,5 @@ Answer: No, you don't need to log in to your account again each time you open th
 Answer: To remove this software, simply locate the downloaded application and delete the entire folder. 
 ## Source Code
 
-**Coming Soon**
 
 
