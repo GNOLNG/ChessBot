@@ -1,0 +1,8 @@
+chess==1.10.0
+opencv_python==4.8.1.78
+PyAutoGUI==0.9.54
+PyQt6==6.6.1
+PyQt6_sip==13.6.0
+pyttsx3==2.71   ##2.90 windows can't stop issues
+PyQt6-WebEngine==6.6.0
+PyQt6-WebEngine-Qt6==6.6.1
